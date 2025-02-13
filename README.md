@@ -4,7 +4,7 @@ This project is designed to be an interactive webpage to ask someone to be your 
 
 ---
 ## **🚀 Respect Open-Source**
-I built this for **fun & learning**. If you fork or modify it:  
+I built this for **fun & learning**. If you fork or modify itttttt:  
 ✔ **Use it for creativity, personal projects, or learning**  
 ✔ **Give proper credit when using it in public**  
 ✔ **Respect the original creator’s work**  
